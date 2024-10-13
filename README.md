@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/responsive-results-summary-component-using-css-and-javascript-Tz7by2gHlh)
+- Live Site URL: [Live Site](https://asimsaeed353.github.io/results-summary-component-main/)
 
 ## My process
 
