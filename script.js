@@ -40,7 +40,7 @@
 
 /*  Populating Data using Fetch API */
 
-fetch('http://127.0.0.1:5500/data.json')
+fetch('data.json')
   .then((response) => response.json())
   .then((details) => {
     var clutter = "";
